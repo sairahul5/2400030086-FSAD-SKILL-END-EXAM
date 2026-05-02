@@ -1,0 +1,5 @@
+com/klef/fsad/exam/Transport.class
+com/klef/fsad/exam/TransportController.class
+com/klef/fsad/exam/ExamApplication.class
+com/klef/fsad/exam/TransportService.class
+com/klef/fsad/exam/TransportRepository.class
